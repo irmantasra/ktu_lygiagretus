@@ -1,0 +1,14 @@
+C:\Projects\lyg_lab1\lyg_lab1\bin\Debug\netcoreapp3.0\lyg_lab1.exe
+C:\Projects\lyg_lab1\lyg_lab1\obj\Debug\netcoreapp3.0\lyg_lab1.csprojAssemblyReference.cache
+C:\Projects\lyg_lab1\lyg_lab1\obj\Debug\netcoreapp3.0\lyg_lab1.AssemblyInfoInputs.cache
+C:\Projects\lyg_lab1\lyg_lab1\obj\Debug\netcoreapp3.0\lyg_lab1.AssemblyInfo.cs
+C:\Projects\lyg_lab1\lyg_lab1\bin\Debug\netcoreapp3.0\RestSharp.dll
+C:\Projects\lyg_lab1\lyg_lab1\obj\Debug\netcoreapp3.0\lyg_lab1.csproj.CopyComplete
+C:\Projects\lyg_lab1\lyg_lab1\bin\Debug\netcoreapp3.0\lyg_lab1.deps.json
+C:\Projects\lyg_lab1\lyg_lab1\bin\Debug\netcoreapp3.0\lyg_lab1.runtimeconfig.json
+C:\Projects\lyg_lab1\lyg_lab1\bin\Debug\netcoreapp3.0\lyg_lab1.runtimeconfig.dev.json
+C:\Projects\lyg_lab1\lyg_lab1\bin\Debug\netcoreapp3.0\lyg_lab1.dll
+C:\Projects\lyg_lab1\lyg_lab1\bin\Debug\netcoreapp3.0\lyg_lab1.pdb
+C:\Projects\lyg_lab1\lyg_lab1\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Projects\lyg_lab1\lyg_lab1\obj\Debug\netcoreapp3.0\lyg_lab1.dll
+C:\Projects\lyg_lab1\lyg_lab1\obj\Debug\netcoreapp3.0\lyg_lab1.pdb

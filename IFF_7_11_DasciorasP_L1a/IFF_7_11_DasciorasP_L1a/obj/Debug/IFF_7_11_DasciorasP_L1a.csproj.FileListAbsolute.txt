@@ -1,0 +1,19 @@
+C:\Users\Paulius\Desktop\Trečias kursas\Lygiagretusis programavimas\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\bin\Debug\IFF_7_11_DasciorasP_L1a.exe.config
+C:\Users\Paulius\Desktop\Trečias kursas\Lygiagretusis programavimas\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\bin\Debug\IFF_7_11_DasciorasP_L1a.exe
+C:\Users\Paulius\Desktop\Trečias kursas\Lygiagretusis programavimas\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\bin\Debug\IFF_7_11_DasciorasP_L1a.pdb
+C:\Users\Paulius\Desktop\Trečias kursas\Lygiagretusis programavimas\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Paulius\Desktop\Trečias kursas\Lygiagretusis programavimas\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Paulius\Desktop\Trečias kursas\Lygiagretusis programavimas\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\obj\Debug\IFF_7_11_DasciorasP_L1a.csprojAssemblyReference.cache
+C:\Users\Paulius\Desktop\Trečias kursas\Lygiagretusis programavimas\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\obj\Debug\IFF_7_11_DasciorasP_L1a.csproj.CoreCompileInputs.cache
+C:\Users\Paulius\Desktop\Trečias kursas\Lygiagretusis programavimas\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\obj\Debug\IFF_7_11_DasciorasP_L1a.csproj.CopyComplete
+C:\Users\Paulius\Desktop\Trečias kursas\Lygiagretusis programavimas\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\obj\Debug\IFF_7_11_DasciorasP_L1a.exe
+C:\Users\Paulius\Desktop\Trečias kursas\Lygiagretusis programavimas\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\obj\Debug\IFF_7_11_DasciorasP_L1a.pdb
+C:\Users\Irmantas\Downloads\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\bin\Debug\IFF_7_11_DasciorasP_L1a.exe.config
+C:\Users\Irmantas\Downloads\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\bin\Debug\IFF_7_11_DasciorasP_L1a.exe
+C:\Users\Irmantas\Downloads\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\bin\Debug\IFF_7_11_DasciorasP_L1a.pdb
+C:\Users\Irmantas\Downloads\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Irmantas\Downloads\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Irmantas\Downloads\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\obj\Debug\IFF_7_11_DasciorasP_L1a.csprojAssemblyReference.cache
+C:\Users\Irmantas\Downloads\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\obj\Debug\IFF_7_11_DasciorasP_L1a.csproj.CopyComplete
+C:\Users\Irmantas\Downloads\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\obj\Debug\IFF_7_11_DasciorasP_L1a.exe
+C:\Users\Irmantas\Downloads\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\IFF_7_11_DasciorasP_L1a\obj\Debug\IFF_7_11_DasciorasP_L1a.pdb

@@ -1,0 +1,6 @@
+C:\Projects\lygiagretus_lab1\lygiagretus_lab1\bin\Debug\lygiagretus_lab1.exe.config
+C:\Projects\lygiagretus_lab1\lygiagretus_lab1\bin\Debug\lygiagretus_lab1.exe
+C:\Projects\lygiagretus_lab1\lygiagretus_lab1\bin\Debug\lygiagretus_lab1.pdb
+C:\Projects\lygiagretus_lab1\lygiagretus_lab1\obj\Debug\lygiagretus_lab1.csprojAssemblyReference.cache
+C:\Projects\lygiagretus_lab1\lygiagretus_lab1\obj\Debug\lygiagretus_lab1.exe
+C:\Projects\lygiagretus_lab1\lygiagretus_lab1\obj\Debug\lygiagretus_lab1.pdb
